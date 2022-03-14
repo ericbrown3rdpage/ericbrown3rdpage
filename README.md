@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Eric Brown - Software Dev Intern at 365retailmarkets
-- 👀 I’m interested in all things Science, Gaming - Development 
+- 👀 I’m interested in all things Science, Gaming - Development
+- Languages used Java, Swift, C++
 - 🌱 I’m currently studying Computer Science
 - 📫 Reach me at Eric.Brown@365smartshop.com
+- 
 
 <!---
 ericbrown3rdpage/ericbrown3rdpage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
