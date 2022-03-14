@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eric Brown - Intern at 365retailmarkets
+- 👋 Hi, I’m Eric Brown - Software Dev Intern at 365retailmarkets
 - 👀 I’m interested in all things Science, Gaming - Development 
 - 🌱 I’m currently studying Computer Science
 - 📫 Reach me at Eric.Brown@365smartshop.com
